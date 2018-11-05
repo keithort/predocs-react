@@ -49,7 +49,7 @@ const LenderInformation = props => {
           onClick={previousPage}
         >
           Previous
-        </button>
+        </button>{" "}
         <button
           type="submit"
           className="btn btn-primary"
